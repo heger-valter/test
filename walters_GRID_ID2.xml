@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root policyEvaluationVersion="2.1" colData="2" hostName="WTC-878123-L1" user="878123" timestamp="2013/11/14 13:51:11" fileFormatVersion="v2.1.0.1" rootNumADs="2" rootSizeRows="4" rootSizeCol="8" index="-1">
+    <table posAttr0="4" posPermission="2" posId="1" numAttrPerPlcy="2" numPolicies="4" numConditionDefinitions="4" sizeRows="4" sizeCol="8" index="-1">
+        <colNames index="0">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>ID</value>
+        </colNames>
+        <colNames index="1">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>Permission</value>
+        </colNames>
+        <colNames index="2">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>ORIGIN_COUNTRY_CODE</value>
+        </colNames>
+        <colNames index="3">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>ORIGIN_STATE_OR_PROVINCE_CODE</value>
+        </colNames>
+        <colNames index="4">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>DESTINATION_COUNTRY_CODE</value>
+        </colNames>
+        <colNames index="5">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>DESTINATION_STATE_OR_PROVINCE_CODE</value>
+        </colNames>
+        <colNames index="6">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>INSURED_VALUE_AMOUNT</value>
+        </colNames>
+        <colNames index="7">
+            <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <value>INSURED_VALUE_CURRENCY_CODE</value>
+        </colNames>
+        <row numCol="8" index="0">
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <col index="0">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>1</value>
+            </col>
+            <col index="1">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>ALLOWED</value>
+            </col>
+            <col index="2">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="3">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="4">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="5">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="6">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>50001.0</value>
+            </col>
+            <col index="7">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>CDD</value>
+            </col>
+        </row>
+        <row numCol="8" index="1">
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <col index="0">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>2</value>
+            </col>
+            <col index="1">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>ALLOWED</value>
+            </col>
+            <col index="2">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>US</value>
+            </col>
+            <col index="3">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>PR</value>
+            </col>
+            <col index="4">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>US</value>
+            </col>
+            <col index="5">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="6">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>50002.0</value>
+            </col>
+            <col index="7">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>FR</value>
+            </col>
+        </row>
+        <row numCol="8" index="2">
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <col index="0">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>3</value>
+            </col>
+            <col index="1">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>ALLOWED</value>
+            </col>
+            <col index="2">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>US</value>
+            </col>
+            <col index="3">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="4">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>US</value>
+            </col>
+            <col index="5">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="6">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>50003.0</value>
+            </col>
+            <col index="7">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>GD</value>
+            </col>
+        </row>
+        <row numCol="8" index="3">
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <col index="0">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>4</value>
+            </col>
+            <col index="1">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>ALLOWED</value>
+            </col>
+            <col index="2">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>US</value>
+            </col>
+            <col index="3">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value></value>
+            </col>
+            <col index="4">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>US</value>
+            </col>
+            <col index="5">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>PR</value>
+            </col>
+            <col index="6">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>50004.0</value>
+            </col>
+            <col index="7">
+                <type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <value>EUE</value>
+            </col>
+        </row>
+        <stGridId>walters_GRID_ID</stGridId>
+        <conditionalDefinitions numConditionalDefinitions="4" index="3">
+            <conditionalDefinition index="0">
+                <contextCode>ORIGIN_COUNTRY_CODE</contextCode>
+                <operator>EQUAL_TO</operator>
+                <typeDetailType>STRING</typeDetailType>
+                <decimalPrecision>0</decimalPrecision>
+            </conditionalDefinition>
+            <conditionalDefinition index="1">
+                <contextCode>ORIGIN_STATE_OR_PROVINCE_CODE</contextCode>
+                <operator>ONE_OF</operator>
+                <typeDetailType>STRING</typeDetailType>
+                <decimalPrecision>0</decimalPrecision>
+            </conditionalDefinition>
+            <conditionalDefinition index="2">
+                <contextCode>DESTINATION_COUNTRY_CODE</contextCode>
+                <operator>EQUAL_TO</operator>
+                <typeDetailType>STRING</typeDetailType>
+                <decimalPrecision>0</decimalPrecision>
+            </conditionalDefinition>
+            <conditionalDefinition index="3">
+                <contextCode>DESTINATION_STATE_OR_PROVINCE_CODE</contextCode>
+                <operator>ONE_OF</operator>
+                <typeDetailType>STRING</typeDetailType>
+                <decimalPrecision>0</decimalPrecision>
+            </conditionalDefinition>
+        </conditionalDefinitions>
+        <attributeDefinitions numAttributeDefinitions="2" index="1" comment="Attributes">
+            <attributeDefinition index="0">
+                <id>INSURED_VALUE_AMOUNT</id>
+            </attributeDefinition>
+            <attributeDefinition index="1">
+                <id>INSURED_VALUE_CURRENCY_CODE</id>
+            </attributeDefinition>
+        </attributeDefinitions>
+    </table>
+    <encodedView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <decodeView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <parsedView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</root>
