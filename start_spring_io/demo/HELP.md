@@ -1,4 +1,8 @@
 # import > clone URI: https://github.com/heger-valter/test.git user:heger.valter@gmail.com
+# https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html
+
+#https://www.javaguides.net/2023/08/library-management-system-project-using-spring-boot.html
+
 # Getting Started
 
 ### Reference Documentation
