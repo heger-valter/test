@@ -17,4 +17,16 @@ public class Book {
     @ManyToOne
     @JoinColumn(name = "user_id")
     private User borrowedBy;
+	public void setBorrowedBy(User user) {
+		// TODO Auto-generated method stub
+		borrowedBy=user;
+	}
+	public void setBorrowed(boolean b) {
+		// TODO Auto-generated method stub
+		borrowed=b;
+	}
+	public boolean isBorrowed() {
+		// TODO Auto-generated method stub
+		return borrowed;
+	}
 }
