@@ -1,4 +1,4 @@
-package com.example.demo;
+package net.javaguides.bankingapp.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

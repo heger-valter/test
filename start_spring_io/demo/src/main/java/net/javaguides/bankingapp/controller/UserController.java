@@ -1,4 +1,4 @@
-package com.example.demo;
+package net.javaguides.bankingapp.controller;
 import net.javaguides.bankingapp.entity.User;
 import net.javaguides.bankingapp.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

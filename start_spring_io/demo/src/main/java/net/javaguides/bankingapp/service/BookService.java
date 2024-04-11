@@ -1,4 +1,4 @@
-package com.example.demo;
+package net.javaguides.bankingapp.service;
 
 
 import net.javaguides.bankingapp.entity.Book;

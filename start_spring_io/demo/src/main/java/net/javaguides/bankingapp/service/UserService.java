@@ -1,4 +1,4 @@
-package com.example.demo;
+package net.javaguides.bankingapp.service;
 
 import net.javaguides.bankingapp.entity.User;
 import net.javaguides.bankingapp.repository.UserRepository;
