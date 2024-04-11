@@ -1,4 +1,4 @@
-# import > clone URI: https://github.com/heger-valter/test.git user:heger-valter
+# import > clone URI: https://github.com/heger-valter/test.git user:heger.valter@gmail.com
 # Getting Started
 
 ### Reference Documentation
