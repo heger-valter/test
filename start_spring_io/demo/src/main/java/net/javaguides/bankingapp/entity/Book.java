@@ -17,6 +17,7 @@ public class Book {
     @ManyToOne
     @JoinColumn(name = "user_id")
     private User borrowedBy;
+/* */
 	public void setBorrowedBy(User user) {
 		// TODO Auto-generated method stub
 		borrowedBy=user;
@@ -29,4 +30,5 @@ public class Book {
 		// TODO Auto-generated method stub
 		return borrowed;
 	}
+/* */
 }

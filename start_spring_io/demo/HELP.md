@@ -3,6 +3,16 @@
 
 #https://www.javaguides.net/2023/08/library-management-system-project-using-spring-boot.html
 
+#https://spring.io/guides/gs/accessing-data-mysql
+mysql> create database banking_app; -- Creates the new database
+mysql> create user 'root' identified by 'Mysql@123'; -- Creates the user
+mysql> grant all on banking_app.* to 'root'; -- Gives all privileges to the new user on the newly created database
+
+#https://dev.mysql.com/downloads/installer/
+#https://dev.mysql.com/downloads/file/?id=526407
+#mysql-installer-web-community-8.0.36.0.msi
+
+
 # Getting Started
 
 ### Reference Documentation
